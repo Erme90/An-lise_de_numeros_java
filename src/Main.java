@@ -21,5 +21,6 @@ public class Main {
         float cubo = (float) Math.pow(num,3);
         System.out.println("Elevado ao cubo é: "+cubo);
 
+
     }
 }
